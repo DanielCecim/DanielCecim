@@ -11,7 +11,7 @@ Currently based in **Madrid 🇪🇸**, originally from **Rio de Janeiro 🇧�
 **@ MongoDB AI Lab**
 Building an IoT anomaly-detection agent for CNC predictive maintenance. The agent uses vector search over historical incident embeddings to surface relevant past incidents and recommend remediation steps to on-call engineers in real time, with a cyclic feedback loop that makes it smarter with every resolved incident.
 
-Stack: `LangGraph` · `MongoDB Atlas Vector Search` · `Voyage AI` · `Vertex AI (Gemini)` 
+Stack: `LangGraph` · `MongoDB Atlas Vector Search` · `Voyage AI` · 
 
 ---
 ## 🛠 tools I work with
